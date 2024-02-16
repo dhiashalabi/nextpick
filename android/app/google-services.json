@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447903355854",
+    "project_id": "nextpickapp",
+    "storage_bucket": "nextpickapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447903355854:android:4e62b61d31fae6eb17119f",
+        "android_client_info": {
+          "package_name": "com.example.nextpick"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9li6nRxSSJdg_ZZs4L1SclGjYGRS7-ZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
